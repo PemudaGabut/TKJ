@@ -1,0 +1,39 @@
+.title {
+  top: 40%;
+  left: 38%;
+  position: absolute;
+  color: black;
+}
+
+.title h1 {
+  font-size: 70px;
+  font-family: Arial;
+}
+
+.btn-brand {
+  background-color: black;
+  color: white;
+}
+
+.member{
+	position: absolute;
+	top: 100%;
+	left: 35%;
+}
+.member h1{
+	font-family: sans-serif;
+	color: black;
+	font-size: 70px;
+}
+.anggota{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(IMG/g1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	justify-content: center;
+}
+
+
+
+
+
